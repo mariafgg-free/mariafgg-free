@@ -1,19 +1,19 @@
-<h1 align="left" id="mariafgg-utpge-title">:wave: Hello there! I'm Maria Fernanda</h1>
+<h1 align="left" id="mariafgg-free-title">:wave: Hello there! I'm Maria Fernanda</h1>
 <h3 align="left">I do Software Development, Engineering, Petrophysics, Geology and Geophysics applied to Petroleum Reservoirs, Volcanos :volcano: and Geothermal Energy :battery: for Integrated, Less Uncertain and more Usable Quantitative Solutions :chart_with_upwards_trend:</h3>
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=mariafgg-utpge)
+![Profile View Counter](https://komarev.com/ghpvc/?username=mariafgg-free)
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-fernanda-g-5a2753224/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mariafgg@utexas.edu)](mailto:mariafgg@utexas.edu)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariafgg-utpge&show_icons=true&theme=radical)]
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariafgg-free&show_icons=true&theme=radical)]
 
 <p align="left">
-  <a href="https://github.com/mariafgg-utpge/mariafgg-utpge">
-    <img src="https://komarev.com/ghpvc/?username=mariafgg-utpge" alt="page views" />
+  <a href="https://github.com/mariafgg-free/mariafgg-free">
+    <img src="https://komarev.com/ghpvc/?username=mariafgg-free" alt="page views" />
   </a>
 
-  <a href="https://github.com/mariafgg-utpge?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/mariafgg-utpge?style=flat&logo=github">
+  <a href="https://github.com/mariafgg-free?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/mariafgg-free?style=flat&logo=github">
   </a>
   <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">
     <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">
@@ -29,7 +29,7 @@
 
 <br>
 
-<h2 align="left" id="mariafgg-utpge-tech">Favorite Tech</h2>
+<h2 align="left" id="mariafgg-free-tech">Favorite Tech</h2>
 
 <h3>Things I code with</h3>
 <p>
@@ -70,25 +70,25 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/mariafgg-utpge/Machine-Assisted-Well-Log-Pattern"><b>Machine-Assisted Well-Log Pattern Recognition</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/mariafgg-utpge/Machine-Assisted-Well-Log-Pattern?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/mariafgg-utpge/Machine-Assisted-Well-Log-Pattern?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/mariafgg-utpge/Machine-Assisted-Well-Log-Pattern?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/mariafgg-utpge/Machine-Assisted-Well-Log-Pattern?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/mariafgg-free/Machine-Assisted-Well-Log-Pattern"><b>Machine-Assisted Well-Log Pattern Recognition</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/mariafgg-free/Machine-Assisted-Well-Log-Pattern?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/mariafgg-free/Machine-Assisted-Well-Log-Pattern?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/mariafgg-free/Machine-Assisted-Well-Log-Pattern?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/mariafgg-free/Machine-Assisted-Well-Log-Pattern?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/mariafgg-utpge/Tutorials_Formation_Evaluation"><b>Tutorial to plot Triple Combo in Python</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/mariafgg-utpge/Tutorials_Formation_Evaluation?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/mariafgg-utpge/Tutorials_Formation_Evaluation?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/mariafgg-utpge/Tutorials_Formation_Evaluation?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/mariafgg-utpge/Tutorials_Formation_Evaluation?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/mariafgg-free/Tutorials_Formation_Evaluation"><b>Tutorial to plot Triple Combo in Python</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/mariafgg-free/Tutorials_Formation_Evaluation?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/mariafgg-free/Tutorials_Formation_Evaluation?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/mariafgg-free/Tutorials_Formation_Evaluation?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/mariafgg-free/Tutorials_Formation_Evaluation?style=flat-square&labelColor=343b41"/></td>
     </tr> 
 <!--  <tr>
-  <!--     <td><a href="[https://github.com/mariafgg-utpge/Signal-Petrophysics]"><b>Signal-Petrophysics Package</b></a></td>
-  <!--     <td><img alt="Stars" src="https://img.shields.io/github/stars/mariafgg-utpge/Signal-Petrophysics.git?style=flat-square&labelColor=343b41"/></td>
-  <!--     <td><img alt="Forks" src="https://img.shields.io/github/forks/mariafgg-utpge/Signal-Petrophysics.git?style=flat-square&labelColor=343b41"/></td>
-  <!--     <td><img alt="Issues" src="https://img.shields.io/github/issues/mariafgg-utpge/Signal-Petrophysics.git?style=flat-square&labelColor=343b41"/></td>
-  <!--     <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/mariafgg-utpge/Signal-Petrophysics.git?style=flat-square&labelColor=343b41"/></td>
+  <!--     <td><a href="[https://github.com/mariafgg-free/Signal-Petrophysics]"><b>Signal-Petrophysics Package</b></a></td>
+  <!--     <td><img alt="Stars" src="https://img.shields.io/github/stars/mariafgg-free/Signal-Petrophysics.git?style=flat-square&labelColor=343b41"/></td>
+  <!--     <td><img alt="Forks" src="https://img.shields.io/github/forks/mariafgg-free/Signal-Petrophysics.git?style=flat-square&labelColor=343b41"/></td>
+  <!--     <td><img alt="Issues" src="https://img.shields.io/github/issues/mariafgg-free/Signal-Petrophysics.git?style=flat-square&labelColor=343b41"/></td>
+  <!--     <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/mariafgg-free/Signal-Petrophysics.git?style=flat-square&labelColor=343b41"/></td>
   <!--   </tr> -->
 
 
@@ -98,6 +98,6 @@
 </table>
 <!-- links -->
 
-[Machine-Assisted Well-Log Pattern Recognition Project]: https://github.com/mariafgg-utpge/Machine-Assisted-Well-Log-Pattern "Machine-Assisted Well-Log Pattern Recognition"
-[Signal-Petrophysics]: https://github.com/mariafgg-utpge/Signal-Petrophysics "Signal-Petrophysics"
+[Machine-Assisted Well-Log Pattern Recognition Project]: https://github.com/mariafgg-free/Machine-Assisted-Well-Log-Pattern "Machine-Assisted Well-Log Pattern Recognition"
+[Signal-Petrophysics]: https://github.com/mariafgg-free/Signal-Petrophysics "Signal-Petrophysics"
 [linkedin]: https://www.linkedin.com/in/maria-g-5a2753224 "Maria's LinkedIn"
