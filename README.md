@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-fernanda-g-5a2753224/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:mariafgg@utexas.edu)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariafgg-free&show_icons=true&theme=radical)](https://github.com/mariafgg-free)
+[![Maria Fernanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariafgg-free&show_icons=true&theme=radical)](https://github.com/mariafgg-free)
 
 <p align="left">
   <a href="https://github.com/mariafgg-free/mariafgg-free">
