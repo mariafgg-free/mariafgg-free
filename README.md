@@ -1,17 +1,16 @@
-<h1 align="left" id="mariafgg-free-title">:wave: Hello there! I'm Maria Fernanda</h1>
-<h3 align="left">I do Software Development, Engineering, Petrophysics, Geology and Geophysics applied to Petroleum Reservoirs, Volcanos :volcano: and Geothermal Energy :battery: for Integrated, Less Uncertain and more Usable Quantitative Solutions :chart_with_upwards_trend:</h3>
+<h1 align="left">:wave: Hello there! I'm Maria Fernanda</h1>
+<h3 align="left">I do Software Development, Engineering, Petrophysics, Geology and Geophysics applied to Petroleum Reservoirs, Volcanos 🌋 and Geothermal Energy 🔋 for Integrated, Less Uncertain and more Usable Quantitative Solutions 📈</h3>
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=mariafgg-free)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-fernanda-g-5a2753224/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mariafgg@utexas.edu)](mailto:mariafgg@utexas.edu)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:mariafgg@utexas.edu)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariafgg-free&show_icons=true&theme=radical)]
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariafgg-free&show_icons=true&theme=radical)](https://github.com/mariafgg-free)
 
 <p align="left">
   <a href="https://github.com/mariafgg-free/mariafgg-free">
     <img src="https://komarev.com/ghpvc/?username=mariafgg-free" alt="page views" />
   </a>
-
   <a href="https://github.com/mariafgg-free?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/mariafgg-free?style=flat&logo=github">
   </a>
@@ -20,11 +19,11 @@
   </a>
 </p>
 
-- :office: &nbsp;I'm currently working on my Research and Consulting Ideas after taking a leave from my PhD at UT Austin 
-- :seedling: &nbsp;My main project now is my **[Machine-Assisted Well-Log Pattern Recognition Project]**
+- 🏢 I'm currently working on my Research and Consulting Ideas after taking a leave from my PhD at UT Austin 
+- 🌱 My main project now is my [Machine-Assisted Well-Log Pattern Recognition Project](https://github.com/mariafgg-free/Machine-Assisted-Well-Log-Pattern)
 <!-- - from which I have started the creation of the **[Signal-Petrophysics]** package, with reusable code, incorporating Signal-Processing techniques into petrophysical analysis.-->
-- :speech_balloon: &nbsp;I like to talk about **Petrophysics** and other **Geoscience Predictive Issues**
-- :computer: &nbsp;Connect with me on **[LinkedIn]**
+- 💬 I like to talk about **Petrophysics** and other **Geoscience Predictive Issues**
+- 💻 Connect with me on [LinkedIn](https://www.linkedin.com/in/maria-fernanda-g-5a2753224)
 
 <br>
 
@@ -72,7 +71,3 @@
     </tr> 
   </tbody>
 </table>
-
-[Machine-Assisted Well-Log Pattern Recognition Project]: https://github.com/mariafgg-free/Machine-Assisted-Well-Log-Pattern "Machine-Assisted Well-Log Pattern Recognition"
-[Signal-Petrophysics]: https://github.com/mariafgg-free/Signal-Petrophysics "Signal-Petrophysics"
-[LinkedIn]: https://www.linkedin.com/in/maria-fernanda-g-5a2753224 "Maria's LinkedIn"
