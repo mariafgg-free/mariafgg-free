@@ -8,9 +8,6 @@
 [![Maria Fernanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariafgg-free&show_icons=true&theme=radical)](https://github.com/mariafgg-free)
 
 <p align="left">
-  <a href="https://github.com/mariafgg-free/mariafgg-free">
-    <img src="https://komarev.com/ghpvc/?username=mariafgg-free" alt="page views" />
-  </a>
   <a href="https://github.com/mariafgg-free?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/mariafgg-free?style=flat&logo=github">
   </a>
