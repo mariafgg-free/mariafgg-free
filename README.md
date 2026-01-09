@@ -21,7 +21,7 @@
 </p>
 
 
-- :office: &nbsp;I'm currently working on my PhD at UT Austin 
+- :office: &nbsp;I'm currently working on my Research Ideas to be epafter taking a leave from my PhD at UT Austin 
 - :seedling: &nbsp;My main project now is my **[Machine-Assisted Well-Log Pattern Recognition Project]**
 <!-- - from which I have started the creation of the **[Signal-Petrophysics]** package, with reusable code, incorporating Signal-Processing techniques into petrophysical analysis.-->
 - :speech_balloon: &nbsp;I like to talk about **Petrophysics** and other **Geoscience Predictive Issues**
