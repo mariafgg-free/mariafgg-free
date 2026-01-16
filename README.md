@@ -5,15 +5,16 @@ I do Software Development, Engineering, Petrophysics, Geology and Geophysics app
 ![Profile View Counter](https://komarev.com/ghpvc/?username=mariafgg-free)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-fernanda-g-5a2753224/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:mariafgg@utexas.edu)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:info@nobleza-energy.com)
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=mariafgg-free&show_icons=true&theme=radical)](https://github.com/mariafgg-free)
 
 [![GitHub followers](https://img.shields.io/github/followers/mariafgg-free?style=flat&logo=github)](https://github.com/mariafgg-free?tab=followers)
 
-- 🏢 I'm currently working on my Research and Consulting Ideas after taking a leave from my PhD at UT Austin 
-- 🌱 My main project now is my [Machine-Assisted Well-Log Pattern Recognition Project](https://github.com/mariafgg-free/Machine-Assisted-Well-Log-Pattern)
-- 💬 I like to talk about **Petrophysics** and other **Geoscience Predictive Issues**
+- 🏢 I'm currently working as a Consultant for **Nobleza Energy** 
+- 🌱 My main projects are related to Deep-Learning Enabled Formation Evaluation Automation
+- 💬 I like to talk about **Petrophysics** and other **Geoscience Predictive Issues** in the Petroleum, Geothermal and Geohazards Industries
+-  I believe in Open-Source so I like to share short tutorials that anyone can use to advance their skillsets 🎁 
 - 💻 Connect with me on [LinkedIn](https://www.linkedin.com/in/maria-fernanda-g-5a2753224)
 
 ## Favorite Tech
@@ -34,5 +35,4 @@ I do Software Development, Engineering, Petrophysics, Geology and Geophysics app
 
 | 🎁 Projects | ⭐ Stars | 📚 Forks | 🛎 Issues | 📬 Pull requests |
 |-------------|---------|----------|-----------|------------------|
-| [Machine-Assisted Well-Log Pattern Recognition](https://github.com/mariafgg-free/Machine-Assisted-Well-Log-Pattern) | ![Stars](https://img.shields.io/github/stars/mariafgg-free/Machine-Assisted-Well-Log-Pattern?style=flat-square&labelColor=343b41) | ![Forks](https://img.shields.io/github/forks/mariafgg-free/Machine-Assisted-Well-Log-Pattern?style=flat-square&labelColor=343b41) | ![Issues](https://img.shields.io/github/issues/mariafgg-free/Machine-Assisted-Well-Log-Pattern?style=flat-square&labelColor=343b41) | ![Pull Requests](https://img.shields.io/github/issues-pr/mariafgg-free/Machine-Assisted-Well-Log-Pattern?style=flat-square&labelColor=343b41) |
 | [Tutorial to plot Triple Combo in Python](https://github.com/mariafgg-free/Tutorials_Formation_Evaluation) | ![Stars](https://img.shields.io/github/stars/mariafgg-free/Tutorials_Formation_Evaluation?style=flat-square&labelColor=343b41) | ![Forks](https://img.shields.io/github/forks/mariafgg-free/Tutorials_Formation_Evaluation?style=flat-square&labelColor=343b41) | ![Issues](https://img.shields.io/github/issues/mariafgg-free/Tutorials_Formation_Evaluation?style=flat-square&labelColor=343b41) | ![Pull Requests](https://img.shields.io/github/issues-pr/mariafgg-free/Tutorials_Formation_Evaluation?style=flat-square&labelColor=343b41) |
