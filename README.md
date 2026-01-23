@@ -5,8 +5,6 @@ I do Software Development, Engineering, Petrophysics, Geology and Geophysics app
 ![Profile View Counter](https://komarev.com/ghpvc/?username=mariafgg-free)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-fernanda-g-5a2753224/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:info@nobleza-energy.com)
-
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=mariafgg-free&show_icons=true&theme=radical)](https://github.com/mariafgg-free)
 
 [![GitHub followers](https://img.shields.io/github/followers/mariafgg-free?style=flat&logo=github)](https://github.com/mariafgg-free?tab=followers)
