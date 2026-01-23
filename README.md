@@ -4,12 +4,6 @@ I do Software Development, Engineering, Petrophysics, Geology and Geophysics app
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=mariafgg-free)
 
-
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-fernanda-g-5a2753224/)
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=mariafgg-free&show_icons=true&theme=radical)](https://github.com/mariafgg-free)
-[![GitHub followers](https://img.shields.io/github/followers/mariafgg-free?style=flat&logo=github)](https://github.com/mariafgg-free?tab=followers)
-
 - 🏢 I'm currently working as a Consultant for **[Nobleza Energy](https://nobleza-energy.com)** 
 - 🌱 My main projects are related to Deep-Learning Enabled Formation Evaluation Automation
 - 💬 I like to talk about **Petrophysics** and other **Geoscience Predictive Issues** in the Petroleum, Geothermal and Geohazards Industries
@@ -30,8 +24,13 @@ I do Software Development, Engineering, Petrophysics, Geology and Geophysics app
 ![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-fernanda-g-5a2753224/)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=mariafgg-free&show_icons=true&theme=radical)](https://github.com/mariafgg-free)
+[![GitHub followers](https://img.shields.io/github/followers/mariafgg-free?style=flat&logo=github)](https://github.com/mariafgg-free?tab=followers)
+
 ### Open source projects
 
 | 🎁 Projects | ⭐ Stars | 📚 Forks | 🛎 Issues | 📬 Pull requests |
 |-------------|---------|----------|-----------|------------------|
 | [Tutorial to plot Triple Combo in Python](https://github.com/mariafgg-free/Tutorials_Formation_Evaluation) | ![Stars](https://img.shields.io/github/stars/mariafgg-free/Tutorials_Formation_Evaluation?style=flat-square&labelColor=343b41) | ![Forks](https://img.shields.io/github/forks/mariafgg-free/Tutorials_Formation_Evaluation?style=flat-square&labelColor=343b41) | ![Issues](https://img.shields.io/github/issues/mariafgg-free/Tutorials_Formation_Evaluation?style=flat-square&labelColor=343b41) | ![Pull Requests](https://img.shields.io/github/issues-pr/mariafgg-free/Tutorials_Formation_Evaluation?style=flat-square&labelColor=343b41) |
+
