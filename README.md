@@ -4,7 +4,7 @@ I do Software Development, Engineering, Petrophysics, Geology and Geophysics app
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=mariafgg-free)
 
-- 🏢 I'm currently working as a Consultant for **[Nobleza Energy](https://nobleza-energy.com)** 
+- 🏢 I'm currentlythe CTO of **[Nobleza Energy](https://nobleza-energy.com)** 
 - 🌱 My main projects are related to Deep-Learning Enabled Formation Evaluation Automation
 - 💬 I like to talk about **Petrophysics** and other **Geoscience Predictive Issues** in the Petroleum, Geothermal and Geohazards Industries
 -  I believe in Open-Source so I like to share short tutorials that anyone can use to advance their skillsets 🎁 
