@@ -5,7 +5,7 @@ I do Software Development, Engineering, Petrophysics, Geology and Geophysics app
 ![Profile View Counter](https://komarev.com/ghpvc/?username=mariafgg-free)
 
 - 🏢 I'm currently the CTO of **[Nobleza Energy](https://nobleza-energy.com)**
-- 🚀 We just launched **[WellXplo™](https://www.nobleza-energy.com/wellxplo)** — a cloud-based petrophysical well log analysis platform for independent geoscientists. LAS/DLIS visualization, crossplots, and conventional petrophysical analysis for HCIP estimation. Starting at **$10/mo**.
+- 🚀 We just launched **[WellXplo™](https://www.nobleza-energy.com/wellxplo)** — a cloud-based petrophysical well log analysis platform for independent geoscientists. LAS/DLIS visualization, crossplots, and conventional petrophysical analysis for HCIP estimation. **Starter** Tier for **$15/mo** | **PRO** Tier for **$29/mo** (Launching)| **ENTERPRISE** Tier Coming Soon for **$99/mo** (Launching).
 - 🌱 My main projects are related to Deep-Learning Enabled Formation Evaluation Automation
 - 💬 I like to talk about **Petrophysics** and other **Geoscience Predictive Issues** in the Petroleum, Geothermal and Geohazards Industries
 - I believe in Open-Source so I like to share short tutorials that anyone can use to advance their skillsets 🎁
